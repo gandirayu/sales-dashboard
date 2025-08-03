@@ -33,6 +33,7 @@ Tujuan: Menunjukkan kemampuan desain antarmuka serta implementasi frontend halam
 # Clone repository
 git clone https://github.com/username/sales-dashboard.git
 cd sales-dashboard
+```
 ---
 
 ## 💻 Teknologi / Technologies
