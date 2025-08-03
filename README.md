@@ -14,7 +14,7 @@ Tujuan: Menunjukkan kemampuan desain antarmuka serta implementasi frontend halam
 ---
 
 ## 🎯 Fitur / Features
-- **Menu Navigasi**: Sidebar/Topbar untuk akses cepat
+- **Menu Navigasi**: Sidebar untuk akses cepat
 - **Summary Cards**: Total Sales, Total Transactions, Top Selling Products, Monthly Sales Growth
 - **Sales Graph**: Line chart penjualan 12 bulan terakhir
 - **Sales by Category**: Pie chart distribusi penjualan
@@ -37,7 +37,7 @@ cd sales-dashboard
 ---
 
 ## 💻 Teknologi / Technologies
-- **Figma** / **Canva** untuk prototyping
+- **Figma**
 - **HTML5**, **CSS3** (Tailwind CSS)
 ---
 
