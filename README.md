@@ -7,7 +7,7 @@
 ## 📌 Deskripsi Proyek / Project Description
 Repositori ini berisi:
 1. **Desain UI/UX** lengkap menggunakan Figma (link di bawah)
-2. **Slicing** satu halaman dashboard penjualan (HTML, CSS, JavaScript)
+2. **Slicing** satu halaman dashboard penjualan (HTML dan CSS)
 
 Tujuan: Menunjukkan kemampuan desain antarmuka serta implementasi frontend halaman dashboard penjualan yang responsif.
 
